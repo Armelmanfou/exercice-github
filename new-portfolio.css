@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+}
+
+.premier{
+    background-color: rgb(165, 42, 61);
+    height: 50px;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    float: right;
+    gap: 30px;
+    margin-right: 30px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.liens:hover{
+    padding: 10px 10px;
+    background-color: blue;
+}
+
+.second{
+    background-color: rgba(0, 0, 0, 0.858);
+    height: 789px;
+}
+
+.one{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.too{
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.troie{
+    padding: 280px;
+}
+/* --------------------Mon main--------------------- */
+main{
+    background-color: rgba(0, 30, 139, 0.67);
+    height: 1150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form{
+    display: grid;
+    gap: 40px;
+}
+
+.photo-1{
+    display: flex;
+    gap: 40px;
+}
+
+.photo-2{
+    display: flex;
+    gap: 40px;
+}
+
+img{
+    width: 380px;
+    height: 380px;
+}
+
+.four{
+    color: white;
+    font-size: 40px;
+    text-decoration: underline;
+    margin-left: 300px;
+    padding: 10px;
+}
+
+.fa-angle-right{
+    color: white;
+}
+
+.deco{
+    background-color: rgba(26, 34, 28, 0.744);
+    height: 50px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 520px;
+    margin-top: 30px;
+}
+
+.cot{
+    color: white;
+    font-size: 23px;
+}
+
+.cop:hover{
+    background-color: brown;
+    padding: 10px 10px;
+}
+
+.p1{
+    position: absolute;
+    margin-top: 320px;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 113px;
+    background-color: rgb(66, 66, 66);
+}
+
+.p2{
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 320px;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    padding-left: 140px;
+    padding-right: 136px;
+    background-color: rgb(66, 66, 66);
+}
+
+.p3{
+    position: absolute;
+    margin-left: 840px;
+    margin-top: 320px;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    padding-left: 140px;
+    padding-right: 134px;
+    background-color: rgb(66, 66, 66);
+}
+
+.but{
+    margin-top: 337px;
+    padding-right: 145px;
+    padding-left: 140px;
+}
+
+.bat{
+    margin-top: 337px;
+    padding-right: 157px;
+    padding-left: 140px;
+}
+
+.bot{
+    margin-top: 337px;
+    padding-right: 154px;
+    padding-left: 140px;
+}
+
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* ----------------------Mon footer---------------- */
+footer{
+    background-color:rgba(19, 24, 20, 0.83);
+    height: 800px;
+}
+
+.contener{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 200px;
+}
+
+.rot{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    color: white;
+    margin-left: 80px;
+}
+
+.vol{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.special{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 60px;
+}
+
+.soul{
+    color: white;
+    font-size: 25px;
+}
+
+.fa-brands{
+    color: white;
+}
+
+.fa-at{
+    color: white;
+}
+
+.fa-mobile-button{
+    color: white;
+}
+
+.ligne{
+    margin-top: 50px;
+    height: 3px;
+    border-color: brown;
+    background-color: brown;
+}
+
+.fa-fire{
+    color: white;
+}
+
+.dernier{
+    display: flex;
+    gap: 150px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.nier{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
